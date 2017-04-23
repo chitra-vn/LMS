@@ -1,0 +1,55 @@
+﻿.panel-heading, .divHeader {
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 14pt;
+    font-weight: normal;
+    text-decoration: none;
+    background-color: #2a3f54 !important;
+    font-family: "Helvetica", Arial, sans-serif;
+    height: 29px;
+    padding-left: 20px;
+}
+
+    .divHeader a {
+        color: white;
+    }
+    .table-responsive{border:none !important;}
+    .container-one{margin-top:98px;}
+    .paginate_button {
+        padding:0px !important;
+        margin-left:0px !important;
+    }
+    .paginate_button:hover{
+        background:white !important;
+        border:none !important;
+    }
+    .panel-primary{border:none !important;}
+    .panel{box-shadow:0px 0px rgba(0, 0, 0, .05) !important;}
+    .table-responsive{overflow-x:visible !important;}
+
+.btn-info {
+    color: #fff !important;
+    background-color: rgba(42, 63, 84, 0.81) !important;
+    border-color: rgba(42, 63, 84, 0.81) !important;
+}
+.btn-info:hover{    background-color: rgba(42, 63, 84, 0.63) !important;}
+@media(max-width:768px)
+{
+    .dataTables_length{
+        display:none !important;
+    }
+
+}
+.btnwidth{width:121px;}
+.popupheader {
+        margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-top: 7px !important;
+}
+.close {
+    color: white;
+    text-shadow: 0 0px 0 #fff;
+        margin-right: 17px !important;
+    margin-top: 5px !important;
+}

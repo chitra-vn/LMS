@@ -1,0 +1,143 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\ApplicationInsights.config
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\roslyn\csc.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\roslyn\System.Collections.Immutable.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\roslyn\vbc.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\roslyn\VBCSCompiler.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\roslyn\VBCSCompiler.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\LibraryBooks.dll.config
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\LibraryBooks.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\LibraryBooks.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\Microsoft.AI.Web.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\Microsoft.AI.WindowsServer.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\Microsoft.ApplicationInsights.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\Microsoft.Web.Infrastructure.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\MySql.Data.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\Newtonsoft.Json.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\SDNSQLUtilities.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\System.Web.Helpers.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\System.Web.Mvc.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\System.Web.Razor.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\System.Web.Webpages.Deployment.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\System.Web.Webpages.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\System.Web.Webpages.Razor.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\Microsoft.AI.Web.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\Microsoft.AI.WindowsServer.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\Microsoft.ApplicationInsights.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\System.Web.Razor.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\System.Web.Webpages.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\System.Web.Webpages.Deployment.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\System.Web.Webpages.Razor.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\System.Web.Helpers.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\bin\System.Web.Mvc.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.csprojResolveAssemblyReference.cache
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\ApplicationInsights.config
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\roslyn\csc.exe
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\roslyn\vbc.exe
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\roslyn\VBCSCompiler.exe
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\LibraryBooks.dll.config
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\LibraryBooks.dll
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\LibraryBooks.pdb
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\Microsoft.AI.Web.dll
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\Microsoft.ApplicationInsights.dll
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\MySql.Data.dll
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\System.Web.Helpers.dll
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\System.Web.Mvc.dll
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\System.Web.Razor.dll
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\System.Web.Webpages.Deployment.dll
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\System.Web.Webpages.dll
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\System.Web.Webpages.Razor.dll
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\Microsoft.AI.Web.xml
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\Microsoft.ApplicationInsights.xml
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\System.Web.Razor.xml
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\System.Web.Webpages.xml
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\System.Web.Webpages.Deployment.xml
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\System.Web.Webpages.Razor.xml
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\System.Web.Helpers.xml
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\bin\System.Web.Mvc.xml
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.csprojResolveAssemblyReference.cache
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.dll
+C:\Users\chitra\Desktop\synechron project\Synechron\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.pdb
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\ApplicationInsights.config
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\roslyn\csc.exe
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\roslyn\vbc.exe
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\roslyn\VBCSCompiler.exe
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\LibraryBooks.dll.config
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\LibraryBooks.dll
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\LibraryBooks.pdb
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\Microsoft.AI.Web.dll
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\Microsoft.ApplicationInsights.dll
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\MySql.Data.dll
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\System.Web.Helpers.dll
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\System.Web.Mvc.dll
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\System.Web.Razor.dll
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\System.Web.Webpages.Deployment.dll
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\System.Web.Webpages.dll
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\System.Web.Webpages.Razor.dll
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\Microsoft.AI.Web.xml
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\Microsoft.ApplicationInsights.xml
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\System.Web.Razor.xml
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\System.Web.Webpages.xml
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\System.Web.Webpages.Deployment.xml
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\System.Web.Webpages.Razor.xml
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\System.Web.Helpers.xml
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\bin\System.Web.Mvc.xml
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.dll
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.pdb
+C:\Users\chitra\Desktop\synechron project\mvc\LibraryBooks\LibraryBooks\obj\Debug\LibraryBooks.csprojResolveAssemblyReference.cache
